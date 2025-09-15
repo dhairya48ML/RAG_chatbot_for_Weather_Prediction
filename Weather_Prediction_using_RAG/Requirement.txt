@@ -1,6 +1,0 @@
-Requirements
-faiss
-sentence_transformers
-transformers
-numpy
-gradio
