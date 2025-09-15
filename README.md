@@ -58,3 +58,4 @@ The system integrates live weather APIs, embeddings, vector retrieval, and an LL
    ```bash
    git clone https://github.com/your-username/weather-rag-chatbot.git
    cd weather-rag-chatbot
+2. Run the code
